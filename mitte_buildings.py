@@ -47,4 +47,4 @@ for index, row in solar_data.iterrows():
         break
 
 # save dataset to Excel file
-solar_data.iloc[:N, :].to_excel("solar_data_mitte.xlsx")
+solar_data.iloc[:N, :].to_excel(f"top_{N}.xlsx")

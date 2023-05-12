@@ -17,5 +17,5 @@
 - Link: https://fbinter.stadt-berlin.de/fb/atom/Hauskoordinaten/HKO_EPSG5650.zip
 - ZIP-Datei herunterladen & entpacken, Datei "adressen-be_mitPLZ.txt" in Ordner data/addresses ablegen
 ### Ausführen:
-- mitte_buildings.py ausführen
-- Die N größten Dächer (einstellbarer Parameter) werden als Excel-Datei ausgegeben ("top_N.xlsx")
+- **`mitte_buildings.py`** ausführen
+- Die N größten Dächer (einstellbarer Parameter) werden als Excel-Datei ausgegeben (**`top_<N>.xlsx`**)
